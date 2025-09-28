@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tonsite.com/sitemap.xml
+Sitemap: https://airdropcrypto.netlify.app/sitemap.xml
+
